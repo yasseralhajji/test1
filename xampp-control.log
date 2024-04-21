@@ -1,0 +1,20 @@
+10:26:46 ã  [main] 	Initializing Control Panel
+10:26:46 ã  [main] 	Windows Version:  Home  64-bit
+10:26:46 ã  [main] 	XAMPP Version: 8.2.12
+10:26:46 ã  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+10:26:46 ã  [main] 	You are not running with administrator rights! This will work for
+10:26:46 ã  [main] 	most application stuff but whenever you do something with services
+10:26:46 ã  [main] 	there will be a security dialogue or things will break! So think 
+10:26:46 ã  [main] 	about running this application with administrator rights!
+10:26:46 ã  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:26:46 ã  [main] 	Checking for prerequisites
+10:26:47 ã  [main] 	All prerequisites found
+10:26:47 ã  [main] 	Initializing Modules
+10:26:47 ã  [Apache] 	XAMPP Apache is already running on port 80
+10:26:47 ã  [Apache] 	XAMPP Apache is already running on port 443
+10:26:47 ã  [mysql] 	XAMPP MySQL is already running on port 3306
+10:26:47 ã  [main] 	Starting Check-Timer
+10:26:47 ã  [main] 	Control Panel Ready
+01:54:44 Õ  [main] 	Deinitializing Modules
+01:54:44 Õ  [main] 	Deinitializing Control Panel
+
